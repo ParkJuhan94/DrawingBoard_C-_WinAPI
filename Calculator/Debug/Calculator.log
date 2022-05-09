@@ -1,0 +1,9 @@
+﻿  calculatorbutton.cpp
+C:\Users\1004s\OneDrive\Desktop\Proj2021\Calculator\calculatorbutton.h(11,10): error C3668: 'CalculatorButton::setParent': method with override specifier 'override' did not override any base class methods
+C:\Users\1004s\OneDrive\Desktop\Proj2021\Calculator\calculatorbutton.cpp(20,2): error C2065: 'parent_': undeclared identifier
+  calculatorframe.cpp
+C:\Users\1004s\OneDrive\Desktop\Proj2021\Calculator\calculatorbutton.h(11,10): error C3668: 'CalculatorButton::setParent': method with override specifier 'override' did not override any base class methods
+  CalculatorMain.cpp
+  plusactionlistener.cpp
+C:\Users\1004s\OneDrive\Desktop\Proj2021\Calculator\calculatorbutton.h(11,10): error C3668: 'CalculatorButton::setParent': method with override specifier 'override' did not override any base class methods
+  Generating Code...
